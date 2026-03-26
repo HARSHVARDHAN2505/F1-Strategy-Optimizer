@@ -25,11 +25,6 @@ A machine learning-based Formula 1 race strategy simulator that predicts lap tim
 
 ---
 
-## 🖥️ Demo
-
-(Add screenshot here)
-
----
 
 ## ⚙️ Tech Stack
 
@@ -42,4 +37,3 @@ A machine learning-based Formula 1 race strategy simulator that predicts lap tim
 
 ---
 
-## 📂 Project Structure
